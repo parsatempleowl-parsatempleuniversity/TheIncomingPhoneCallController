@@ -7,7 +7,7 @@ Group Number: 6
 
 Group Members: Abdullah Jandali & Parsa Ahmadi Nasab Emran
  
- Sensors: accelerometer and camera to record to motion done by the user
+ Sensors: accelerometer to record to motion done by the user
  
  Goal: 
 The goal of this app is for managing the incoming calls with either sound or motion. In order to  manage the incoming calls, the user can use motion to either answer, reject, or even end the call. Using motion, the user can wave their hand to the right to answer the call or wave it  to the left to reject or end it. 
